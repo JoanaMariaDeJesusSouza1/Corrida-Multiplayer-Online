@@ -53,3 +53,4 @@ function draw() {
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
+//jogo de corrida sequestrado
